@@ -1,0 +1,10 @@
+(librepcb_package_category 33d975c5-2732-47bf-ab82-735d0d836067
+ (name "C&K")
+ (description "Packages by C&K switches")
+ (keywords "ck,c&k")
+ (author "Danilo Bargen")
+ (version "0.1")
+ (created 2019-07-31T20:08:29Z)
+ (deprecated false)
+ (parent 194951ec-03dd-412a-9828-70c40bbdd22d)
+)
