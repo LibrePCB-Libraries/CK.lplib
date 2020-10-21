@@ -75,7 +75,7 @@
    (align center top) (position 0.0 -5.225) (rotation 0.0)
    (auto_rotate true) (mirror false) (value "{{VALUE}}")
   )
-  (stroke_text 86e43e68-ddf7-4a2c-a276-3e1d72be329d (layer brd_documentation)
+  (stroke_text 86e43e68-ddf7-4a2c-a276-3e1d72be329d (layer top_documentation)
    (height 0.5) (stroke_width 0.1) (letter_spacing auto) (line_spacing auto)
    (align center center) (position 0.0 -3.0) (rotation 270.0)
    (auto_rotate false) (mirror false) (value "C&K")
