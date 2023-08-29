@@ -1,5 +1,5 @@
 (librepcb_device 75f159f1-a992-4905-8c6e-72985e9474dc
- (name "JS202011SCQN")
+ (name "C&K JS202011SCQN")
  (description "Slide switch DPDT, surface mount, 300mA, 6V.")
  (keywords "ck,slide,switch,dpdt")
  (author "Danilo Bargen")
