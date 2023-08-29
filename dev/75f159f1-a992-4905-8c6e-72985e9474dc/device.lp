@@ -3,7 +3,7 @@
  (description "Slide switch DPDT, surface mount, 300mA, 6V.")
  (keywords "ck,slide,switch,dpdt")
  (author "Danilo Bargen")
- (version "0.1")
+ (version "0.2")
  (created 2019-07-31T20:40:26Z)
  (deprecated false)
  (generated_by "")
