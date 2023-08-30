@@ -16,4 +16,6 @@
  (pad 949201b6-de70-48b2-94d1-c7748c64cb56 (signal a281c509-a607-46e0-a163-96d4210144b2))
  (pad 9dc3bdde-2818-4f92-904e-748e2e5b8113 (signal cfdc01ba-49b2-43b4-8023-4b4d5154b94d))
  (pad b2e833a7-7390-4362-9568-5ca9c898b242 (signal db140861-b48c-4e9b-9c7a-b900441f599a))
+ (part "JS202011SCQN" (manufacturer "C&K")
+ )
 )
