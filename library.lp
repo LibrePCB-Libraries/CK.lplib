@@ -3,7 +3,7 @@
  (description "Switch technology and high reliability connector products (unofficial).")
  (keywords "")
  (author "LibrePCB")
- (version "0.2.1")
+ (version "0.2.2")
  (created 2019-07-31T20:01:44Z)
  (deprecated false)
  (url "https://github.com/LibrePCB-Libraries/CK.lplib")
